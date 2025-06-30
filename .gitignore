@@ -1,0 +1,6 @@
+/target
+/solana_data_1s/*
+Cargo.lock
+solana_historical_price.dat
+.env
+.DS_store
